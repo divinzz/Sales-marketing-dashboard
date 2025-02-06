@@ -1,4 +1,4 @@
-# Sales Marketing Dashboard - Power BI Project
+# Sales Marketing Dashboard 
 
 This Power BI project focuses on building a comprehensive **Sales Marketing Dashboard** that allows for in-depth analysis of revenue, cost, profit, conversion rates, and marketing campaigns. The dashboard provides interactive insights into product performance, sales channels, and geographical data.
 
@@ -77,4 +77,5 @@ The repository contains the following:
     - Navigate between the **Overview** and **Product Details** pages to explore different aspects of the sales data.
 
 ![Image](https://github.com/user-attachments/assets/492cc6b5-6959-4fb9-8144-fcc73480cad1)
+
 ![Image](https://github.com/user-attachments/assets/78daedbb-2b7e-4db5-9c91-7bb24b74272b)
