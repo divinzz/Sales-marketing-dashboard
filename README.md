@@ -76,16 +76,5 @@ The repository contains the following:
     - Use the year-wise filter to explore data from different years (2022, 2023, and 2024).
     - Navigate between the **Overview** and **Product Details** pages to explore different aspects of the sales data.
 
-## Learning Resources
-
-- **Power BI Desktop**: [Download Power BI Desktop](https://powerbi.microsoft.com/desktop/)
-- **Power BI Resources**: [Power BI Documentation](https://docs.microsoft.com/en-us/power-bi/)
-
-## Contributing
-
-Feel free to fork this repository and contribute to the project by creating pull requests. If you want to suggest any improvements, bug fixes, or additional features, please open an issue or submit a PR.
-
-## Acknowledgements
-
-- **Icons**: Icons used in the dashboard were sourced from [Flaticon](https://www.flaticon.com/).
-- **Power BI**: Visualizations and features were created using [Microsoft Power BI](https://powerbi.microsoft.com/).
+![Image](https://github.com/user-attachments/assets/492cc6b5-6959-4fb9-8144-fcc73480cad1)
+![Image](https://github.com/user-attachments/assets/78daedbb-2b7e-4db5-9c91-7bb24b74272b)
