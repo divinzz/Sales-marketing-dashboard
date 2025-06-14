@@ -3,6 +3,7 @@
 Designed a dynamic and user-friendly dashboard using hypothetical e-commerce data to provide deep insights into sales performance, marketing effectiveness, and profitability across 2022, 2023, and 2024.
 
 Key Features:
+
 Revenue, Cost, and Profit KPIs:
 Visual summary of total revenue ($630K), cost ($493K), and profit ($136K) with monthly trends.
 
