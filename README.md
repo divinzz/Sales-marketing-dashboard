@@ -1,80 +1,40 @@
 # Sales Marketing Dashboard 
 
-This Power BI project focuses on building a comprehensive **Sales Marketing Dashboard** that allows for in-depth analysis of revenue, cost, profit, conversion rates, and marketing campaigns. The dashboard provides interactive insights into product performance, sales channels, and geographical data.
+Designed a dynamic and user-friendly dashboard using hypothetical e-commerce data to provide deep insights into sales performance, marketing effectiveness, and profitability across 2022, 2023, and 2024.
 
-## Overview
+Key Features:
+Revenue, Cost, and Profit KPIs:
+Visual summary of total revenue ($630K), cost ($493K), and profit ($136K) with monthly trends.
 
-This Sales Marketing Dashboard provides an easy-to-use interface for analyzing sales performance over the years, broken down by product details, revenue streams, and marketing campaigns. The project includes two main pages: **Overview** and **Product Details**. It also provides multiple charts and visualizations for deeper insights into the data.
+Revenue by Lead Source:
+Horizontal bar chart comparing performance from Email, Referral, Social Media, and other lead sources.
 
-### Key Features:
+Revenue by Sales Channel:
+Donut chart distinguishing online (67.3%) vs. in-store (32.7%) sales contributions.
 
-#### Overview Page:
-- **Year-wise Filter**: Allows users to filter the data for the years 2022, 2023, and 2024.
-  
-- **Revenue and Profit Analysis**:
-    - **Revenue by Cars (Line Chart)**: Displays the year-over-year revenue for cars.
-    - **Cost vs Profit (Clustered Bar Chart)**: Shows the cost and profit comparison for each product category.
-  
-- **Sales Channel Breakdown**:
-    - **Revenue by Sales Channel (Donut Chart)**: Visualizes revenue distribution across different sales channels.
+Revenue by Month & Campaign:
+Line and bar charts showing temporal performance and impact of seasonal campaigns like “Summer Deals 2024.”
 
-- **Lead Source & Marketing Campaign Performance**:
-    - **Revenue by Lead Source (Clustered Bar Chart)**: Displays revenue generated through different lead sources.
-    - **Revenue by Marketing Campaign (Clustered Bar Chart)**: Shows revenue associated with each marketing campaign.
+Regional & Country Performance:
+Geomap and tables presenting sessions and revenue across major markets including Japan, UK, and USA.
 
-- **Geographical Insights**:
-    - **Revenue and Sessions by Country (Shape Map)**: Shows the distribution of revenue and session counts across different countries.
-    - **Revenue by Region (Clustered Bar Chart)**: Provides insights into revenue by region.
+Product Details View:
+Comprehensive table with product-level KPIs (rating, stock, views, revenue, cost, and profit) and trend sparklines.
 
-- **Monthly Revenue Trends**:
-    - **Revenue by Month (Line Chart)**: Displays monthly revenue trends for a specific year.
+Key Metrics & Highlights:
+Total Revenue: $630K
 
-#### Product Details Page:
-- **Product Analysis Table**:
-    - Displays detailed data for each product, including:
-      - Product ID
-      - Product Rating
-      - Number of Invoices
-      - Average Price
-      - Stock
-      - Views & Reviews
-      - Cost & Profit
-  
-- **Filter & Search**:
-    - Includes a **Top Filter** for users to filter and search for specific products or data points.
-  
-## Data Sources
+Avg. Conversion Rate: 17.23%
 
-The data for this project is hypothetical and represents sales data from an e-commerce platform. The dataset includes information on:
+Total Views: 46K
 
-- Product details (ID, name, category, rating, etc.)
-- Revenue and profit from sales
-- Sales channel, lead source, and marketing campaigns
-- Geographical data including country, region, and sessions
-- Historical data across multiple years (2022, 2023, and 2024)
+Top Product: Gaming Console Z – $57,298 Revenue
 
-## File Structure
+Visual Elements Used:
+Line charts, bar charts, donut charts, maps, tables, sparklines
 
-The repository contains the following:
-
-- **Power BI Project File**: `Sales_Marketing_Dashboard.pbix`
-- **Dataset**: The data used in the Power BI file (CSV or Excel format).
-- **Dashboard Mockups**: Images showing initial mockups and design ideas for the dashboard layout.
-
-## How to Use
-
-1. **Download the Power BI Project File**:
-    - Download the Power BI file (`Sales_Marketing_Dashboard.pbix`) to view or modify the dashboard.
-
-2. **Install Power BI**:
-    - If you don’t have Power BI installed, you can download [Power BI Desktop](https://powerbi.microsoft.com/desktop/) for free.
-
-3. **Open the Project**:
-    - Open the `.pbix` file in Power BI Desktop to view and interact with the dashboard.
-
-4. **Filter & Explore**:
-    - Use the year-wise filter to explore data from different years (2022, 2023, and 2024).
-    - Navigate between the **Overview** and **Product Details** pages to explore different aspects of the sales data.
+Tools & Skills:
+Power BI, Sales Analytics, Marketing Insights, Data Visualization, Dashboard Design, Performance Monitoring
 
 ![Image](https://github.com/user-attachments/assets/492cc6b5-6959-4fb9-8144-fcc73480cad1)
 
